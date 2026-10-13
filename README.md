@@ -63,3 +63,4 @@ Problem 5: Comparing release patterns
 Dashboard solution: Examine the weekend-release distribution and explicit-content streaming breakdown to identify patterns worth further investigation.
 
 7.sample dashboard view 
+https://github.com/Ankitha-1006/spotify-streaming-dashboard/blob/main/spotifydashboard.png
